@@ -4,8 +4,6 @@
 
 # 🎓 0 - 1 Foundation Track
 
-### [📘 Official Documentation](https://projects.100xdevs.com/)
-
 <img src="https://img.shields.io/badge/Weeks-0--19-blue?style=for-the-badge" />
 
 </div>
