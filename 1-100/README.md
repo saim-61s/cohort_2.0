@@ -1,69 +1,57 @@
-# Cohort 2.0  (1-100) Syllabus 
+<div align="center">
 
+# 🎯 1 - 100 Advanced Track
 
-## Advanced Backend, System Design
+<img src="https://img.shields.io/badge/Weeks-20--22-purple?style=for-the-badge" />
 
-1. **Advanced Backend Communication**
-   
-2. **Message Queues and PubSubs**
-   
-3. **Proxies, Load Balancers**
-   
-4. **Redis Deep Dive**
-   
-5. **Kafka Deep Dive**
-   
-6. **Common Design Patterns in JS**
-   
-7. **Advanced DB Concepts (Indexing, Normalization)**
-   
-8. **Rate Limiting**
-   
-9. **Captchas and DDoS Protection**
-   
-10. **Sharding, Replication, Resiliency**
-    
-11. **Horizontal and Vertical Scaling**
-    
-12. **Polling and Websockets**
-    
-13. **gRPC**
-    
-14. **Capacity Estimation**
-    
-15. **Load Balancers**
-    
-16. **CAP Theorem**
-    
-17. **Testing Node.js Apps in 2023**
-    
-18. **Real-Time Communication, Basics of WebRTC**
+</div>
 
+---
 
+## 📌 Week 20: OpenAI
 
-### Advanced DevOps
+<img src="https://skillicons.dev/icons?i=nodejs" height="30" />
 
-1. **Container Orchestration, Docker Swarm**
-   
-2. **Kubernetes**
-   
-3. **CI/CD**
-   
-4. **Monitoring Systems Basics to Advance**
-   
-5. **Prometheus, Grafana**
-   
-6. **Newrelic as a Paid Service**
-   
-7. **Serverless Deep Dive**
-   
-8. **AWS Constructs (EC2, S3, CDNs, LB, EKS)**
+**Week 20.1** - Orientation, (1-100) Setting Up CMS Daily
 
-## Projects
+**Week 20.2** - OpenAPI Spec (Offline)
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/openapi/OpenAPISpec-1)
 
-1. **Zerodha End to End**
-   
-2. **Zapier End to End**
-   
-3. **Real World Open-Source Projects**
+**Week 20.3** - OpenAPI Spec Class (Cohort 1)
 
+---
+
+## 📌 Week 21: DDoS, PubSubs
+
+<img src="https://skillicons.dev/icons?i=redis" height="30" />
+
+**Week 21.1** - DDoS, Rate Limiting, Captchas
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/rl-ddos-cap/Rate-limitting--DDoS-and-Captcha-1)
+
+**Week 21.2** - Singleton Pattern + Pub Subs
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/singleton-sm-pubsubs/Singleton-Pattern--Backend-State-management-and-Pub-Subs-1)
+
+---
+
+## 📌 Week 22: Capacity Estimation, Normalisation, Indexing in Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql" height="30" />
+
+**Week 22.1** - Capacity Estimation, Horizontal and Vertical Scaling, NSGs
+
+**Week 22.2** - Auto Scaling Groups
+
+**Week 22.3** - Indexing in Databases
+
+**Week 22.4** - Normalisation in Databases
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/hor-ver-scaling/Horizontal-and-vertical-scaling--Indexes-in-DBs-1)
+
+---
+
+<div align="center">
+
+If you find this repository helpful, please give it a ⭐!
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,docker,aws,git,github,vscode" />
+
+</div>
