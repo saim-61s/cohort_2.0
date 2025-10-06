@@ -55,7 +55,7 @@
 - 🟡 [Medium](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-01/assignments/medium)
 - 🔴 [Hard](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-01/assignments/hard)
 
-**Extra Assignments**
+**Lectures**
 - 📚 [Level-1](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-01/offline-classes/level-1)
 - 📚 [Level-2](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-01/offline-classes/level-2)
 - ⏱️ [Counter](https://github.com/saim-61s/cohort_2.0/blob/main/0-1/WEEK-01/offline-classes/01counter.js)
