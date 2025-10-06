@@ -382,5 +382,13 @@
 
 ---
 
+<div align="center">
+
+If you find this repository helpful, please give it a ⭐!
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,docker,aws,git,github,vscode" />
+
+</div>
+
 
 
